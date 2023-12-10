@@ -7,7 +7,7 @@ Most People calls me Rawi, Wi, Wee, Wiwi, anything you like la __-
 <h3 align="left">Want To Know Me More? Click The Link Below</h3>
 <p align="left">
 <a href="www.linkedin.com/in/rawiansyah-andhika-suarnanusa-895b3a151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rawiansyah" height="30" width="40" /></a>
-<a href="https://instagram.com/rawia.s." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rawia.s." height="30" width="40" /></a>
+<a href="https://instagram.com/rawi_a.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rawia.s." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Familiar Using Language, Tools, Framework , and Software</h3>
