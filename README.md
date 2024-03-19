@@ -1,5 +1,7 @@
-
-[![MasterHead](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://github.com/rawiansyahas)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+</p>
 
 <h1 align="center">Hellow Everyone 👋, My Name is Rawiansyah</h1>
 
