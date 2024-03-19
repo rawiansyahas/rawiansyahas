@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rawiansyahas.rawiansyahas" />
+
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 </p>
@@ -6,6 +7,8 @@
 <h1 align="center">Hellow Everyone 👋, My Name is Rawiansyah</h1>
 
 Most People calls me Rawi, Wi, Wee, Wiwi, anything you like la __-
+
+🤖 I’m currently learning **App Engine, Firebase, Google Cloud** in Bangkit 2024 Cloud Computing Program
 
 <h3 align="left">Want To Know Me More? Click The Link Below</h3>
 <p align="left">
@@ -27,9 +30,8 @@ Most People calls me Rawi, Wi, Wee, Wiwi, anything you like la __-
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353423/arduino.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373604/flutter.svg" alt="flutter" width="40" height="40"/> </a>
-
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rawiansyahas&show_icons=true&locale=en&layout=compact" alt="rawiansyahas" /></p>
+<p> <img align="left" width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=rawiansyahas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="rawiansyahas" />/p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rawiansyahas&show_icons=true&locale=en" alt="rawiansyahas" /></p>
+<p>&nbsp; <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/ username=rawiansyahas&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="rawiansyahas" /></p>
