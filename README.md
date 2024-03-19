@@ -23,7 +23,7 @@ Most People calls me Rawi, Wi, Wee, Wiwi, anything you like la __-
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452234/java.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353423/arduino.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https:https://www.svgrepo.com/show/373604/flutter.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373604/flutter.svg" alt="flutter" width="40" height="40"/> </a>
 
 </p>
 
