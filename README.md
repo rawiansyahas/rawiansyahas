@@ -8,7 +8,7 @@
 
 Most People calls me Rawi, Wi, Wee, Wiwi, anything you like la __-
 
-🤖 I’m currently learning **App Engine, Firebase, Google Cloud** in Bangkit 2024 Cloud Computing Program
+🤖 I’m currently finishing my degree in Informatics
 
 <h3 align="left">Want To Know Me More? Click The Link Below</h3>
 <p align="left">
