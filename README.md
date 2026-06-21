@@ -8,7 +8,7 @@
 
 Most People calls me Rawi, Wi, Wee, Wiwi, anything you like la __-
 
-🤖 I’m currently finishing my degree in Informatics
+🤖 Very addicted with AI, Robotice, Automation, Data, and Security (always wanted to build my own SIEM dashboard if i have time)
 
 <h3 align="left">Want To Know Me More? Click The Link Below</h3>
       <p align="left">
