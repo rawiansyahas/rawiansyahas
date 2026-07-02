@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 </p>
 
-<h1 align="center">Hellow Everyone 👋, My Name is Rawiansyah</h1>
+<h1 align="center">Hellow Everyone 👋, Welcome to my page</h1>
 
 Most People calls me Rawi, Wi, Wee, Wiwi, anything you like la __-
 
